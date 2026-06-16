@@ -6,6 +6,11 @@ An end-to-end E-Commerce Analytics solution built using **Microsoft Fabric, SQL,
 
 This project demonstrates the complete analytics lifecycle including data engineering, customer segmentation, business intelligence reporting, forecasting, and interactive analytics deployment.
 
+   - 🌐 Live Application: [App](https://ecommerceanalytics2026.streamlit.app/)
+   - 📊 Power BI Dashboard: [Dashboard Link](https://app.fabric.microsoft.com/links/WWdRA-Njm-?ctid=880db91c-d2b8-4752-96bb-ec6f76398bf3&pbi_source=linkShare)
+   - 💻 GitHub Repository: [Project Repository](https://github.com/naaz-719/E-commerce_Business_Analytics)
+
+
 ---
 
 ## 🎯 Business Objectives
@@ -224,7 +229,7 @@ Business Benefits:
 Insert screenshot here:
 
 ```md
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](images/executive_overview.png)
 ```
 
 ### Microsoft Fabric Pipeline / Architecture
@@ -240,7 +245,7 @@ Insert screenshot here:
 Insert screenshot here:
 
 ```md
-![Streamlit Dashboard](screenshots/streamlit_dashboard.png)
+![Streamlit Dashboard](images/streamlit_dashboard.png)
 ```
 
 ---
@@ -288,6 +293,4 @@ Aspiring Data Analyst | Data Scientist | AI & Machine Learning Enthusiast
 
 GitHub: https://github.com/naaz-719
 
----
 
-⭐ If you found this project useful, consider giving it a star.
