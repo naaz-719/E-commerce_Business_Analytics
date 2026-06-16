@@ -226,27 +226,19 @@ Business Benefits:
 
 ### Power BI Dashboard
 
-Insert screenshot here:
 
-```md
 ![Power BI Dashboard](images/executive_overview.png)
-```
+
 
 ### Microsoft Fabric Pipeline / Architecture
 
-Insert screenshot here:
-
-```md
 ![Fabric Pipeline](screenshots/fabric_pipeline.png)
-```
+
 
 ### Streamlit Application
 
-Insert screenshot here:
-
-```md
 ![Streamlit Dashboard](images/streamlit_dashboard.png)
-```
+
 
 ---
 
